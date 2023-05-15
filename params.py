@@ -1,0 +1,1 @@
+VOXEL_GRID_SIZE = 0.4
